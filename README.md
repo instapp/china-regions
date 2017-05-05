@@ -14,6 +14,31 @@ The data that is from [Ministry of Civil Affairs of the People's Republic of Chi
 
 Latest upated at 2017-05-05. ([Source][2])
 
+## Structure
+```bash
+data
+├── csv
+│   ├── cities.csv
+│   ├── districts.csv
+│   └── provinces.csv
+├── js
+│   ├── regions.js 		# 省市区全部数据
+│   └── regions.object.js 	# 省市区全部数据 (对象)
+├── json
+│   ├── cities.json
+│   ├── cities.object.json
+│   ├── districts.json
+│   ├── districts.object.json
+│   ├── provinces.json
+│   ├── provinces.object.json
+│   ├── regions.json 		# 省市区全部数据
+│   └── regions.object.json 	# 省市区全部数据 (对象)
+└── sql
+    ├── cities.sql
+    ├── districts.sql
+    ├── provinces.sql
+    └── regions.sql 		# 省市区全部数据
+```
 
 ## References
 
