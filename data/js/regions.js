@@ -2596,12 +2596,6 @@ let districts = {
       "province": "河北省"
     },
     {
-      "code": "130604",
-      "name": "南市区",
-      "city": "保定市",
-      "province": "河北省"
-    },
-    {
       "code": "130606",
       "name": "莲池区",
       "city": "保定市",
@@ -4630,6 +4624,12 @@ let districts = {
       "province": "辽宁省"
     },
     {
+      "code": "210214",
+      "name": "普兰店区",
+      "city": "大连市",
+      "province": "辽宁省"
+    },
+    {
       "code": "210224",
       "name": "长海县",
       "city": "大连市",
@@ -4638,12 +4638,6 @@ let districts = {
     {
       "code": "210281",
       "name": "瓦房店市",
-      "city": "大连市",
-      "province": "辽宁省"
-    },
-    {
-      "code": "210214",
-      "name": "普兰店区",
       "city": "大连市",
       "province": "辽宁省"
     },
@@ -9001,7 +8995,7 @@ let districts = {
     },
     {
       "code": "360704",
-      "name": "赣县",
+      "name": "赣县区",
       "city": "赣州市",
       "province": "江西省"
     },
@@ -9314,14 +9308,14 @@ let districts = {
       "province": "江西省"
     },
     {
-      "code": "361121",
-      "name": "上饶县",
+      "code": "361103",
+      "name": "广丰区",
       "city": "上饶市",
       "province": "江西省"
     },
     {
-      "code": "361103",
-      "name": "广丰区",
+      "code": "361121",
+      "name": "上饶县",
       "city": "上饶市",
       "province": "江西省"
     },
@@ -16352,12 +16346,6 @@ let districts = {
       "province": "云南省"
     },
     {
-      "code": "530581",
-      "name": "腾冲市",
-      "city": "保山市",
-      "province": "云南省"
-    },
-    {
       "code": "530523",
       "name": "龙陵县",
       "city": "保山市",
@@ -16366,6 +16354,12 @@ let districts = {
     {
       "code": "530524",
       "name": "昌宁县",
+      "city": "保山市",
+      "province": "云南省"
+    },
+    {
+      "code": "530581",
+      "name": "腾冲市",
       "city": "保山市",
       "province": "云南省"
     }
