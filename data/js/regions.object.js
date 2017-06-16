@@ -1599,6 +1599,96 @@ let cities = {
     "province_code": "460000",
     "province": "海南省"
   },
+  "469001": {
+    "code": "469001",
+    "name": "五指山市",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469002": {
+    "code": "469002",
+    "name": "琼海市",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469005": {
+    "code": "469005",
+    "name": "文昌市",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469006": {
+    "code": "469006",
+    "name": "万宁市",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469007": {
+    "code": "469007",
+    "name": "东方市",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469021": {
+    "code": "469021",
+    "name": "定安县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469022": {
+    "code": "469022",
+    "name": "屯昌县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469023": {
+    "code": "469023",
+    "name": "澄迈县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469024": {
+    "code": "469024",
+    "name": "临高县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469025": {
+    "code": "469025",
+    "name": "白沙黎族自治县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469026": {
+    "code": "469026",
+    "name": "昌江黎族自治县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469027": {
+    "code": "469027",
+    "name": "乐东黎族自治县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469028": {
+    "code": "469028",
+    "name": "陵水黎族自治县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469029": {
+    "code": "469029",
+    "name": "保亭黎族苗族自治县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
+  "469030": {
+    "code": "469030",
+    "name": "琼中黎族苗族自治县",
+    "province_code": "460000",
+    "province": "海南省"
+  },
   "500100": {
     "code": "500100",
     "name": "重庆市",
@@ -17899,126 +17989,6 @@ let districts = {
     "name": "崖州区",
     "city_code": "460200",
     "city": "三亚市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469001": {
-    "code": "469001",
-    "name": "五指山市",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469002": {
-    "code": "469002",
-    "name": "琼海市",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469005": {
-    "code": "469005",
-    "name": "文昌市",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469006": {
-    "code": "469006",
-    "name": "万宁市",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469007": {
-    "code": "469007",
-    "name": "东方市",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469021": {
-    "code": "469021",
-    "name": "定安县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469022": {
-    "code": "469022",
-    "name": "屯昌县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469023": {
-    "code": "469023",
-    "name": "澄迈县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469024": {
-    "code": "469024",
-    "name": "临高县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469025": {
-    "code": "469025",
-    "name": "白沙黎族自治县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469026": {
-    "code": "469026",
-    "name": "昌江黎族自治县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469027": {
-    "code": "469027",
-    "name": "乐东黎族自治县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469028": {
-    "code": "469028",
-    "name": "陵水黎族自治县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469029": {
-    "code": "469029",
-    "name": "保亭黎族苗族自治县",
-    "city_code": "460400",
-    "city": "儋州市",
-    "province_code": "460000",
-    "province": "海南省"
-  },
-  "469030": {
-    "code": "469030",
-    "name": "琼中黎族苗族自治县",
-    "city_code": "460400",
-    "city": "儋州市",
     "province_code": "460000",
     "province": "海南省"
   },
