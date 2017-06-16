@@ -2228,6 +2228,60 @@ let cities = {
     "name": "阿勒泰地区",
     "province_code": "650000",
     "province": "新疆维吾尔自治区"
+  },
+  "659001": {
+    "code": "659001",
+    "name": "石河子市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659002": {
+    "code": "659002",
+    "name": "阿拉尔市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659003": {
+    "code": "659003",
+    "name": "图木舒克市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659004": {
+    "code": "659004",
+    "name": "五家渠市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659005": {
+    "code": "659005",
+    "name": "北屯市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659006": {
+    "code": "659006",
+    "name": "铁门关市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659007": {
+    "code": "659007",
+    "name": "双河市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659008": {
+    "code": "659008",
+    "name": "可克达拉市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
+  },
+  "659009": {
+    "code": "659009",
+    "name": "昆玉市",
+    "province_code": "650000",
+    "province": "新疆维吾尔自治区"
   }
 }
 
@@ -24891,78 +24945,6 @@ let districts = {
   "654326": {
     "code": "654326",
     "name": "吉木乃县",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659001": {
-    "code": "659001",
-    "name": "石河子市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659002": {
-    "code": "659002",
-    "name": "阿拉尔市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659003": {
-    "code": "659003",
-    "name": "图木舒克市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659004": {
-    "code": "659004",
-    "name": "五家渠市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659005": {
-    "code": "659005",
-    "name": "北屯市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659006": {
-    "code": "659006",
-    "name": "铁门关市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659007": {
-    "code": "659007",
-    "name": "双河市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659008": {
-    "code": "659008",
-    "name": "可克达拉市",
-    "city_code": "654300",
-    "city": "阿勒泰地区",
-    "province_code": "650000",
-    "province": "新疆维吾尔自治区"
-  },
-  "659009": {
-    "code": "659009",
-    "name": "昆玉市",
     "city_code": "654300",
     "city": "阿勒泰地区",
     "province_code": "650000",
