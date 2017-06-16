@@ -195,6 +195,30 @@ let cities = {
     "province_code": "130000",
     "province": "河北省"
   },
+  "130681": {
+    "code": "130681",
+    "name": "涿州市",
+    "province_code": "130000",
+    "province": "河北省"
+  },
+  "130682": {
+    "code": "130682",
+    "name": "定州市",
+    "province_code": "130000",
+    "province": "河北省"
+  },
+  "130683": {
+    "code": "130683",
+    "name": "安国市",
+    "province_code": "130000",
+    "province": "河北省"
+  },
+  "130684": {
+    "code": "130684",
+    "name": "高碑店市",
+    "province_code": "130000",
+    "province": "河北省"
+  },
   "130700": {
     "code": "130700",
     "name": "张家口市",
@@ -1149,6 +1173,12 @@ let cities = {
     "province_code": "410000",
     "province": "河南省"
   },
+  "419001": {
+    "code": "419001",
+    "name": "济源市",
+    "province_code": "410000",
+    "province": "河南省"
+  },
   "420100": {
     "code": "420100",
     "name": "武汉市",
@@ -1224,6 +1254,30 @@ let cities = {
   "422800": {
     "code": "422800",
     "name": "恩施土家族苗族自治州",
+    "province_code": "420000",
+    "province": "湖北省"
+  },
+  "429004": {
+    "code": "429004",
+    "name": "仙桃市",
+    "province_code": "420000",
+    "province": "湖北省"
+  },
+  "429005": {
+    "code": "429005",
+    "name": "潜江市",
+    "province_code": "420000",
+    "province": "湖北省"
+  },
+  "429006": {
+    "code": "429006",
+    "name": "天门市",
+    "province_code": "420000",
+    "province": "湖北省"
+  },
+  "429021": {
+    "code": "429021",
+    "name": "神农架林区",
     "province_code": "420000",
     "province": "湖北省"
   },
@@ -3229,38 +3283,6 @@ let districts = {
   "130638": {
     "code": "130638",
     "name": "雄县",
-    "city_code": "130600",
-    "city": "保定市",
-    "province_code": "130000",
-    "province": "河北省"
-  },
-  "130681": {
-    "code": "130681",
-    "name": "涿州市",
-    "city_code": "130600",
-    "city": "保定市",
-    "province_code": "130000",
-    "province": "河北省"
-  },
-  "130682": {
-    "code": "130682",
-    "name": "定州市",
-    "city_code": "130600",
-    "city": "保定市",
-    "province_code": "130000",
-    "province": "河北省"
-  },
-  "130683": {
-    "code": "130683",
-    "name": "安国市",
-    "city_code": "130600",
-    "city": "保定市",
-    "province_code": "130000",
-    "province": "河北省"
-  },
-  "130684": {
-    "code": "130684",
-    "name": "高碑店市",
     "city_code": "130600",
     "city": "保定市",
     "province_code": "130000",
@@ -14138,14 +14160,6 @@ let districts = {
     "province_code": "410000",
     "province": "河南省"
   },
-  "419001": {
-    "code": "419001",
-    "name": "济源市",
-    "city_code": "411700",
-    "city": "驻马店市",
-    "province_code": "410000",
-    "province": "河南省"
-  },
   "420102": {
     "code": "420102",
     "name": "江岸区",
@@ -14933,38 +14947,6 @@ let districts = {
   "422828": {
     "code": "422828",
     "name": "鹤峰县",
-    "city_code": "422800",
-    "city": "恩施土家族苗族自治州",
-    "province_code": "420000",
-    "province": "湖北省"
-  },
-  "429004": {
-    "code": "429004",
-    "name": "仙桃市",
-    "city_code": "422800",
-    "city": "恩施土家族苗族自治州",
-    "province_code": "420000",
-    "province": "湖北省"
-  },
-  "429005": {
-    "code": "429005",
-    "name": "潜江市",
-    "city_code": "422800",
-    "city": "恩施土家族苗族自治州",
-    "province_code": "420000",
-    "province": "湖北省"
-  },
-  "429006": {
-    "code": "429006",
-    "name": "天门市",
-    "city_code": "422800",
-    "city": "恩施土家族苗族自治州",
-    "province_code": "420000",
-    "province": "湖北省"
-  },
-  "429021": {
-    "code": "429021",
-    "name": "神农架林区",
     "city_code": "422800",
     "city": "恩施土家族苗族自治州",
     "province_code": "420000",
