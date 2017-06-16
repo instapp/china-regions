@@ -34,6 +34,7 @@ data
 │   ├── regions.json 			# 省市区全部数据
 │   └── regions.object.json 		# 省市区全部数据 (对象)
 │   └── regions.object.flat.json 	# 省市区全部数据 (扁平对象)
+│   └── regions.object.flat.full.json 	# 省市区全部数据 (扁平对象含父级)
 └── sql
     ├── cities.sql
     ├── districts.sql
@@ -47,5 +48,5 @@ data
 - [Administrative divisions of China][3]
 
 [1]: http://www.mca.gov.cn/article/sj/tjbz/a/
-[2]: http://www.mca.gov.cn/article/sj/tjbz/a/2017/201703/201705051139.html
+[2]: http://www.mca.gov.cn/article/sj/tjbz/a/2017/201704/201705311534.html
 [3]: https://en.wikipedia.org/wiki/Administrative_divisions_of_China
