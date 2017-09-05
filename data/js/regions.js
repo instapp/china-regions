@@ -3005,12 +3005,6 @@ let districts = {
       "province": "河北省"
     },
     {
-      "code": "130823",
-      "name": "平泉县",
-      "city": "承德市",
-      "province": "河北省"
-    },
-    {
       "code": "130824",
       "name": "滦平县",
       "city": "承德市",
@@ -3037,6 +3031,12 @@ let districts = {
     {
       "code": "130828",
       "name": "围场满族蒙古族自治县",
+      "city": "承德市",
+      "province": "河北省"
+    },
+    {
+      "code": "130881",
+      "name": "平泉市",
       "city": "承德市",
       "province": "河北省"
     }
@@ -14899,8 +14899,8 @@ let districts = {
       "province": "四川省"
     },
     {
-      "code": "511028",
-      "name": "隆昌县",
+      "code": "511083",
+      "name": "隆昌市",
       "city": "内江市",
       "province": "四川省"
     }
@@ -15689,8 +15689,8 @@ let districts = {
       "province": "贵州省"
     },
     {
-      "code": "520222",
-      "name": "盘县",
+      "code": "520281",
+      "name": "盘州市",
       "city": "六盘水市",
       "province": "贵州省"
     }
@@ -17913,12 +17913,6 @@ let districts = {
       "province": "陕西省"
     },
     {
-      "code": "610821",
-      "name": "神木县",
-      "city": "榆林市",
-      "province": "陕西省"
-    },
-    {
       "code": "610822",
       "name": "府谷县",
       "city": "榆林市",
@@ -17969,6 +17963,12 @@ let districts = {
     {
       "code": "610831",
       "name": "子洲县",
+      "city": "榆林市",
+      "province": "陕西省"
+    },
+    {
+      "code": "610881",
+      "name": "神木市",
       "city": "榆林市",
       "province": "陕西省"
     }

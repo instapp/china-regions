@@ -4,8 +4,9 @@
   "description": "",
   "main": "data/regions.js",
   "scripts": {
-    "dev": "nodemon crawler --exec babel-node --presets es2015-node5,stage-3",
+    "dev": "nodemon crawler --exec babel-node --presets env",
     "build": "babel crawler -d dist",
+    "start": "node dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Acathur<i@acathur.com>",
