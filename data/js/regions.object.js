@@ -9512,14 +9512,6 @@ let districts = {
     "province_code": "330000",
     "province": "浙江省"
   },
-  "331021": {
-    "code": "331021",
-    "name": "玉环县",
-    "city_code": "331000",
-    "city": "台州市",
-    "province_code": "330000",
-    "province": "浙江省"
-  },
   "331022": {
     "code": "331022",
     "name": "三门县",
@@ -9555,6 +9547,14 @@ let districts = {
   "331082": {
     "code": "331082",
     "name": "临海市",
+    "city_code": "331000",
+    "city": "台州市",
+    "province_code": "330000",
+    "province": "浙江省"
+  },
+  "331083": {
+    "code": "331083",
+    "name": "玉环市",
     "city_code": "331000",
     "city": "台州市",
     "province_code": "330000",

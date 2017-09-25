@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "json2csv": "^3.7.3"
+    "json2csv": "^3.7.3",
+    "node-fetch": "^1.7.3"
   }
 }
