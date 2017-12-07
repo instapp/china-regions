@@ -1744,8 +1744,8 @@ let cities = {
       "province": "西藏自治区"
     },
     {
-      "code": "542400",
-      "name": "那曲地区",
+      "code": "540600",
+      "name": "那曲市",
       "province": "西藏自治区"
     },
     {
@@ -5385,12 +5385,6 @@ let districts = {
       "name": "舒兰市",
       "city": "吉林市",
       "province": "吉林省"
-    },
-    {
-      "code": "220284",
-      "name": "磐石市",
-      "city": "吉林市",
-      "province": "吉林省"
     }
   ],
   "220300": [
@@ -7203,6 +7197,12 @@ let districts = {
       "province": "浙江省"
     },
     {
+      "code": "330112",
+      "name": "临安区",
+      "city": "杭州市",
+      "province": "浙江省"
+    },
+    {
       "code": "330122",
       "name": "桐庐县",
       "city": "杭州市",
@@ -7217,12 +7217,6 @@ let districts = {
     {
       "code": "330182",
       "name": "建德市",
-      "city": "杭州市",
-      "province": "浙江省"
-    },
-    {
-      "code": "330185",
-      "name": "临安市",
       "city": "杭州市",
       "province": "浙江省"
     }
@@ -8397,6 +8391,12 @@ let districts = {
       "province": "福建省"
     },
     {
+      "code": "350112",
+      "name": "长乐区",
+      "city": "福州市",
+      "province": "福建省"
+    },
+    {
       "code": "350121",
       "name": "闽侯县",
       "city": "福州市",
@@ -8435,12 +8435,6 @@ let districts = {
     {
       "code": "350181",
       "name": "福清市",
-      "city": "福州市",
-      "province": "福建省"
-    },
-    {
-      "code": "350182",
-      "name": "长乐市",
       "city": "福州市",
       "province": "福建省"
     }
@@ -9021,8 +9015,8 @@ let districts = {
       "province": "江西省"
     },
     {
-      "code": "360421",
-      "name": "九江县",
+      "code": "360404",
+      "name": "柴桑区",
       "city": "九江市",
       "province": "江西省"
     },
@@ -16973,6 +16967,12 @@ let districts = {
       "province": "西藏自治区"
     },
     {
+      "code": "540104",
+      "name": "达孜区",
+      "city": "拉萨市",
+      "province": "西藏自治区"
+    },
+    {
       "code": "540121",
       "name": "林周县",
       "city": "拉萨市",
@@ -16993,12 +16993,6 @@ let districts = {
     {
       "code": "540124",
       "name": "曲水县",
-      "city": "拉萨市",
-      "province": "西藏自治区"
-    },
-    {
-      "code": "540126",
-      "name": "达孜县",
       "city": "拉萨市",
       "province": "西藏自治区"
     },
@@ -17305,71 +17299,71 @@ let districts = {
       "province": "西藏自治区"
     }
   ],
-  "542400": [
+  "540600": [
     {
-      "code": "542421",
-      "name": "那曲县",
-      "city": "那曲地区",
+      "code": "540602",
+      "name": "色尼区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542422",
+      "code": "540621",
       "name": "嘉黎县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542423",
+      "code": "540622",
       "name": "比如县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542424",
+      "code": "540623",
       "name": "聂荣县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542425",
+      "code": "540624",
       "name": "安多县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542426",
+      "code": "540625",
       "name": "申扎县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542427",
+      "code": "540626",
       "name": "索县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542428",
+      "code": "540627",
       "name": "班戈县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542429",
+      "code": "540628",
       "name": "巴青县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542430",
+      "code": "540629",
       "name": "尼玛县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     },
     {
-      "code": "542431",
+      "code": "540630",
       "name": "双湖县",
-      "city": "那曲地区",
+      "city": "那曲市",
       "province": "西藏自治区"
     }
   ],
@@ -17839,8 +17833,8 @@ let districts = {
       "province": "陕西省"
     },
     {
-      "code": "610721",
-      "name": "南郑县",
+      "code": "610703",
+      "name": "南郑区",
       "city": "汉中市",
       "province": "陕西省"
     },

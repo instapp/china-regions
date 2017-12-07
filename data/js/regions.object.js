@@ -2001,9 +2001,9 @@ let cities = {
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542400": {
-    "code": "542400",
-    "name": "那曲地区",
+  "540600": {
+    "code": "540600",
+    "name": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
@@ -6664,14 +6664,6 @@ let districts = {
     "province_code": "220000",
     "province": "吉林省"
   },
-  "220284": {
-    "code": "220284",
-    "name": "磐石市",
-    "city_code": "220200",
-    "city": "吉林市",
-    "province_code": "220000",
-    "province": "吉林省"
-  },
   "220302": {
     "code": "220302",
     "name": "铁西区",
@@ -8992,6 +8984,14 @@ let districts = {
     "province_code": "330000",
     "province": "浙江省"
   },
+  "330112": {
+    "code": "330112",
+    "name": "临安区",
+    "city_code": "330100",
+    "city": "杭州市",
+    "province_code": "330000",
+    "province": "浙江省"
+  },
   "330122": {
     "code": "330122",
     "name": "桐庐县",
@@ -9011,14 +9011,6 @@ let districts = {
   "330182": {
     "code": "330182",
     "name": "建德市",
-    "city_code": "330100",
-    "city": "杭州市",
-    "province_code": "330000",
-    "province": "浙江省"
-  },
-  "330185": {
-    "code": "330185",
-    "name": "临安市",
     "city_code": "330100",
     "city": "杭州市",
     "province_code": "330000",
@@ -10512,6 +10504,14 @@ let districts = {
     "province_code": "350000",
     "province": "福建省"
   },
+  "350112": {
+    "code": "350112",
+    "name": "长乐区",
+    "city_code": "350100",
+    "city": "福州市",
+    "province_code": "350000",
+    "province": "福建省"
+  },
   "350121": {
     "code": "350121",
     "name": "闽侯县",
@@ -10563,14 +10563,6 @@ let districts = {
   "350181": {
     "code": "350181",
     "name": "福清市",
-    "city_code": "350100",
-    "city": "福州市",
-    "province_code": "350000",
-    "province": "福建省"
-  },
-  "350182": {
-    "code": "350182",
-    "name": "长乐市",
     "city_code": "350100",
     "city": "福州市",
     "province_code": "350000",
@@ -11312,9 +11304,9 @@ let districts = {
     "province_code": "360000",
     "province": "江西省"
   },
-  "360421": {
-    "code": "360421",
-    "name": "九江县",
+  "360404": {
+    "code": "360404",
+    "name": "柴桑区",
     "city_code": "360400",
     "city": "九江市",
     "province_code": "360000",
@@ -21512,6 +21504,14 @@ let districts = {
     "province_code": "540000",
     "province": "西藏自治区"
   },
+  "540104": {
+    "code": "540104",
+    "name": "达孜区",
+    "city_code": "540100",
+    "city": "拉萨市",
+    "province_code": "540000",
+    "province": "西藏自治区"
+  },
   "540121": {
     "code": "540121",
     "name": "林周县",
@@ -21539,14 +21539,6 @@ let districts = {
   "540124": {
     "code": "540124",
     "name": "曲水县",
-    "city_code": "540100",
-    "city": "拉萨市",
-    "province_code": "540000",
-    "province": "西藏自治区"
-  },
-  "540126": {
-    "code": "540126",
-    "name": "达孜县",
     "city_code": "540100",
     "city": "拉萨市",
     "province_code": "540000",
@@ -21944,91 +21936,91 @@ let districts = {
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542421": {
-    "code": "542421",
-    "name": "那曲县",
-    "city_code": "542400",
-    "city": "那曲地区",
+  "540602": {
+    "code": "540602",
+    "name": "色尼区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542422": {
-    "code": "542422",
+  "540621": {
+    "code": "540621",
     "name": "嘉黎县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542423": {
-    "code": "542423",
+  "540622": {
+    "code": "540622",
     "name": "比如县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542424": {
-    "code": "542424",
+  "540623": {
+    "code": "540623",
     "name": "聂荣县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542425": {
-    "code": "542425",
+  "540624": {
+    "code": "540624",
     "name": "安多县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542426": {
-    "code": "542426",
+  "540625": {
+    "code": "540625",
     "name": "申扎县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542427": {
-    "code": "542427",
+  "540626": {
+    "code": "540626",
     "name": "索县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542428": {
-    "code": "542428",
+  "540627": {
+    "code": "540627",
     "name": "班戈县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542429": {
-    "code": "542429",
+  "540628": {
+    "code": "540628",
     "name": "巴青县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542430": {
-    "code": "542430",
+  "540629": {
+    "code": "540629",
     "name": "尼玛县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
-  "542431": {
-    "code": "542431",
+  "540630": {
+    "code": "540630",
     "name": "双湖县",
-    "city_code": "542400",
-    "city": "那曲地区",
+    "city_code": "540600",
+    "city": "那曲市",
     "province_code": "540000",
     "province": "西藏自治区"
   },
@@ -22632,9 +22624,9 @@ let districts = {
     "province_code": "610000",
     "province": "陕西省"
   },
-  "610721": {
-    "code": "610721",
-    "name": "南郑县",
+  "610703": {
+    "code": "610703",
+    "name": "南郑区",
     "city_code": "610700",
     "city": "汉中市",
     "province_code": "610000",
