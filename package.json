@@ -15,5 +15,8 @@
     "cheerio": "^0.22.0",
     "json2csv": "^3.7.3",
     "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {
+    "chalk": "^2.3.0"
   }
 }

@@ -6664,6 +6664,14 @@ let districts = {
     "province_code": "220000",
     "province": "吉林省"
   },
+  "220284": {
+    "code": "220284",
+    "name": "磐石市",
+    "city_code": "220200",
+    "city": "吉林市",
+    "province_code": "220000",
+    "province": "吉林省"
+  },
   "220302": {
     "code": "220302",
     "name": "铁西区",
@@ -12072,17 +12080,17 @@ let districts = {
     "province_code": "370000",
     "province": "山东省"
   },
-  "370281": {
-    "code": "370281",
-    "name": "胶州市",
+  "370215": {
+    "code": "370215",
+    "name": "即墨区",
     "city_code": "370200",
     "city": "青岛市",
     "province_code": "370000",
     "province": "山东省"
   },
-  "370282": {
-    "code": "370282",
-    "name": "即墨市",
+  "370281": {
+    "code": "370281",
+    "name": "胶州市",
     "city_code": "370200",
     "city": "青岛市",
     "province_code": "370000",
@@ -15144,17 +15152,17 @@ let districts = {
     "province_code": "430000",
     "province": "湖南省"
   },
-  "430124": {
-    "code": "430124",
-    "name": "宁乡县",
+  "430181": {
+    "code": "430181",
+    "name": "浏阳市",
     "city_code": "430100",
     "city": "长沙市",
     "province_code": "430000",
     "province": "湖南省"
   },
-  "430181": {
-    "code": "430181",
-    "name": "浏阳市",
+  "430182": {
+    "code": "430182",
+    "name": "宁乡市",
     "city_code": "430100",
     "city": "长沙市",
     "province_code": "430000",

@@ -5385,6 +5385,12 @@ let districts = {
       "name": "舒兰市",
       "city": "吉林市",
       "province": "吉林省"
+    },
+    {
+      "code": "220284",
+      "name": "磐石市",
+      "city": "吉林市",
+      "province": "吉林省"
     }
   ],
   "220300": [
@@ -9609,14 +9615,14 @@ let districts = {
       "province": "山东省"
     },
     {
-      "code": "370281",
-      "name": "胶州市",
+      "code": "370215",
+      "name": "即墨区",
       "city": "青岛市",
       "province": "山东省"
     },
     {
-      "code": "370282",
-      "name": "即墨市",
+      "code": "370281",
+      "name": "胶州市",
       "city": "青岛市",
       "province": "山东省"
     },
@@ -12005,14 +12011,14 @@ let districts = {
       "province": "湖南省"
     },
     {
-      "code": "430124",
-      "name": "宁乡县",
+      "code": "430181",
+      "name": "浏阳市",
       "city": "长沙市",
       "province": "湖南省"
     },
     {
-      "code": "430181",
-      "name": "浏阳市",
+      "code": "430182",
+      "name": "宁乡市",
       "city": "长沙市",
       "province": "湖南省"
     }
