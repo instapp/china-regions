@@ -18608,17 +18608,17 @@ let districts = {
     "province_code": "510000",
     "province": "四川省"
   },
-  "510623": {
-    "code": "510623",
-    "name": "中江县",
+  "510604": {
+    "code": "510604",
+    "name": "罗江区",
     "city_code": "510600",
     "city": "德阳市",
     "province_code": "510000",
     "province": "四川省"
   },
-  "510626": {
-    "code": "510626",
-    "name": "罗江县",
+  "510623": {
+    "code": "510623",
+    "name": "中江县",
     "city_code": "510600",
     "city": "德阳市",
     "province_code": "510000",

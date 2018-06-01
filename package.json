@@ -17,6 +17,7 @@
     "node-fetch": "^1.7.3"
   },
   "devDependencies": {
+    "babel-preset-env": "^1.7.0",
     "chalk": "^2.3.0"
   }
 }

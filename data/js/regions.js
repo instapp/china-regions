@@ -14711,14 +14711,14 @@ let districts = {
       "province": "四川省"
     },
     {
-      "code": "510623",
-      "name": "中江县",
+      "code": "510604",
+      "name": "罗江区",
       "city": "德阳市",
       "province": "四川省"
     },
     {
-      "code": "510626",
-      "name": "罗江县",
+      "code": "510623",
+      "name": "中江县",
       "city": "德阳市",
       "province": "四川省"
     },
