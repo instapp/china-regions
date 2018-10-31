@@ -4024,33 +4024,33 @@ let districts = {
     "province_code": "140000",
     "province": "山西省"
   },
-  "140202": {
-    "code": "140202",
-    "name": "城区",
-    "city_code": "140200",
-    "city": "大同市",
-    "province_code": "140000",
-    "province": "山西省"
-  },
-  "140203": {
-    "code": "140203",
-    "name": "矿区",
-    "city_code": "140200",
-    "city": "大同市",
-    "province_code": "140000",
-    "province": "山西省"
-  },
-  "140211": {
-    "code": "140211",
-    "name": "南郊区",
-    "city_code": "140200",
-    "city": "大同市",
-    "province_code": "140000",
-    "province": "山西省"
-  },
   "140212": {
     "code": "140212",
     "name": "新荣区",
+    "city_code": "140200",
+    "city": "大同市",
+    "province_code": "140000",
+    "province": "山西省"
+  },
+  "140213": {
+    "code": "140213",
+    "name": "平城区",
+    "city_code": "140200",
+    "city": "大同市",
+    "province_code": "140000",
+    "province": "山西省"
+  },
+  "140214": {
+    "code": "140214",
+    "name": "云冈区",
+    "city_code": "140200",
+    "city": "大同市",
+    "province_code": "140000",
+    "province": "山西省"
+  },
+  "140215": {
+    "code": "140215",
+    "name": "云州区",
     "city_code": "140200",
     "city": "大同市",
     "province_code": "140000",
@@ -4099,14 +4099,6 @@ let districts = {
   "140226": {
     "code": "140226",
     "name": "左云县",
-    "city_code": "140200",
-    "city": "大同市",
-    "province_code": "140000",
-    "province": "山西省"
-  },
-  "140227": {
-    "code": "140227",
-    "name": "大同县",
     "city_code": "140200",
     "city": "大同市",
     "province_code": "140000",
@@ -4344,9 +4336,9 @@ let districts = {
     "province_code": "140000",
     "province": "山西省"
   },
-  "140624": {
-    "code": "140624",
-    "name": "怀仁县",
+  "140681": {
+    "code": "140681",
+    "name": "怀仁市",
     "city_code": "140600",
     "city": "朔州市",
     "province_code": "140000",
@@ -8000,6 +7992,14 @@ let districts = {
     "province_code": "230000",
     "province": "黑龙江省"
   },
+  "232701": {
+    "code": "232701",
+    "name": "漠河市",
+    "city_code": "232700",
+    "city": "大兴安岭地区",
+    "province_code": "230000",
+    "province": "黑龙江省"
+  },
   "232721": {
     "code": "232721",
     "name": "呼玛县",
@@ -8011,14 +8011,6 @@ let districts = {
   "232722": {
     "code": "232722",
     "name": "塔河县",
-    "city_code": "232700",
-    "city": "大兴安岭地区",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "232723": {
-    "code": "232723",
-    "name": "漠河县",
     "city_code": "232700",
     "city": "大兴安岭地区",
     "province_code": "230000",
@@ -8520,14 +8512,6 @@ let districts = {
     "province_code": "320000",
     "province": "江苏省"
   },
-  "320621": {
-    "code": "320621",
-    "name": "海安县",
-    "city_code": "320600",
-    "city": "南通市",
-    "province_code": "320000",
-    "province": "江苏省"
-  },
   "320623": {
     "code": "320623",
     "name": "如东县",
@@ -8555,6 +8539,14 @@ let districts = {
   "320684": {
     "code": "320684",
     "name": "海门市",
+    "city_code": "320600",
+    "city": "南通市",
+    "province_code": "320000",
+    "province": "江苏省"
+  },
+  "320685": {
+    "code": "320685",
+    "name": "海安市",
     "city_code": "320600",
     "city": "南通市",
     "province_code": "320000",
@@ -11424,9 +11416,9 @@ let districts = {
     "province_code": "360000",
     "province": "江西省"
   },
-  "360622": {
-    "code": "360622",
-    "name": "余江县",
+  "360603": {
+    "code": "360603",
+    "name": "余江区",
     "city_code": "360600",
     "city": "鹰潭市",
     "province_code": "360000",
@@ -14736,14 +14728,6 @@ let districts = {
     "province_code": "420000",
     "province": "湖北省"
   },
-  "420821": {
-    "code": "420821",
-    "name": "京山县",
-    "city_code": "420800",
-    "city": "荆门市",
-    "province_code": "420000",
-    "province": "湖北省"
-  },
   "420822": {
     "code": "420822",
     "name": "沙洋县",
@@ -14755,6 +14739,14 @@ let districts = {
   "420881": {
     "code": "420881",
     "name": "钟祥市",
+    "city_code": "420800",
+    "city": "荆门市",
+    "province_code": "420000",
+    "province": "湖北省"
+  },
+  "420882": {
+    "code": "420882",
+    "name": "京山市",
     "city_code": "420800",
     "city": "荆门市",
     "province_code": "420000",
@@ -16299,6 +16291,14 @@ let districts = {
   "440310": {
     "code": "440310",
     "name": "坪山区",
+    "city_code": "440300",
+    "city": "深圳市",
+    "province_code": "440000",
+    "province": "广东省"
+  },
+  "440311": {
+    "code": "440311",
+    "name": "光明区",
     "city_code": "440300",
     "city": "深圳市",
     "province_code": "440000",
@@ -20592,9 +20592,9 @@ let districts = {
     "province_code": "530000",
     "province": "云南省"
   },
-  "530321": {
-    "code": "530321",
-    "name": "马龙县",
+  "530304": {
+    "code": "530304",
+    "name": "马龙区",
     "city_code": "530300",
     "city": "曲靖市",
     "province_code": "530000",
@@ -22384,14 +22384,6 @@ let districts = {
     "province_code": "610000",
     "province": "陕西省"
   },
-  "610427": {
-    "code": "610427",
-    "name": "彬县",
-    "city_code": "610400",
-    "city": "咸阳市",
-    "province_code": "610000",
-    "province": "陕西省"
-  },
   "610428": {
     "code": "610428",
     "name": "长武县",
@@ -22427,6 +22419,14 @@ let districts = {
   "610481": {
     "code": "610481",
     "name": "兴平市",
+    "city_code": "610400",
+    "city": "咸阳市",
+    "province_code": "610000",
+    "province": "陕西省"
+  },
+  "610482": {
+    "code": "610482",
+    "name": "彬州市",
     "city_code": "610400",
     "city": "咸阳市",
     "province_code": "610000",
@@ -23947,6 +23947,14 @@ let districts = {
   "632802": {
     "code": "632802",
     "name": "德令哈市",
+    "city_code": "632800",
+    "city": "海西蒙古族藏族自治州",
+    "province_code": "630000",
+    "province": "青海省"
+  },
+  "632803": {
+    "code": "632803",
+    "name": "茫崖市",
     "city_code": "632800",
     "city": "海西蒙古族藏族自治州",
     "province_code": "630000",

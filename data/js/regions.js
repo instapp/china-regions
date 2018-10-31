@@ -3333,26 +3333,26 @@ let districts = {
   ],
   "140200": [
     {
-      "code": "140202",
-      "name": "城区",
-      "city": "大同市",
-      "province": "山西省"
-    },
-    {
-      "code": "140203",
-      "name": "矿区",
-      "city": "大同市",
-      "province": "山西省"
-    },
-    {
-      "code": "140211",
-      "name": "南郊区",
-      "city": "大同市",
-      "province": "山西省"
-    },
-    {
       "code": "140212",
       "name": "新荣区",
+      "city": "大同市",
+      "province": "山西省"
+    },
+    {
+      "code": "140213",
+      "name": "平城区",
+      "city": "大同市",
+      "province": "山西省"
+    },
+    {
+      "code": "140214",
+      "name": "云冈区",
+      "city": "大同市",
+      "province": "山西省"
+    },
+    {
+      "code": "140215",
+      "name": "云州区",
       "city": "大同市",
       "province": "山西省"
     },
@@ -3389,12 +3389,6 @@ let districts = {
     {
       "code": "140226",
       "name": "左云县",
-      "city": "大同市",
-      "province": "山西省"
-    },
-    {
-      "code": "140227",
-      "name": "大同县",
       "city": "大同市",
       "province": "山西省"
     }
@@ -3581,8 +3575,8 @@ let districts = {
       "province": "山西省"
     },
     {
-      "code": "140624",
-      "name": "怀仁县",
+      "code": "140681",
+      "name": "怀仁市",
       "city": "朔州市",
       "province": "山西省"
     }
@@ -6429,6 +6423,12 @@ let districts = {
   ],
   "232700": [
     {
+      "code": "232701",
+      "name": "漠河市",
+      "city": "大兴安岭地区",
+      "province": "黑龙江省"
+    },
+    {
       "code": "232721",
       "name": "呼玛县",
       "city": "大兴安岭地区",
@@ -6437,12 +6437,6 @@ let districts = {
     {
       "code": "232722",
       "name": "塔河县",
-      "city": "大兴安岭地区",
-      "province": "黑龙江省"
-    },
-    {
-      "code": "232723",
-      "name": "漠河县",
       "city": "大兴安岭地区",
       "province": "黑龙江省"
     }
@@ -6833,12 +6827,6 @@ let districts = {
       "province": "江苏省"
     },
     {
-      "code": "320621",
-      "name": "海安县",
-      "city": "南通市",
-      "province": "江苏省"
-    },
-    {
       "code": "320623",
       "name": "如东县",
       "city": "南通市",
@@ -6859,6 +6847,12 @@ let districts = {
     {
       "code": "320684",
       "name": "海门市",
+      "city": "南通市",
+      "province": "江苏省"
+    },
+    {
+      "code": "320685",
+      "name": "海安市",
       "city": "南通市",
       "province": "江苏省"
     }
@@ -9109,8 +9103,8 @@ let districts = {
       "province": "江西省"
     },
     {
-      "code": "360622",
-      "name": "余江县",
+      "code": "360603",
+      "name": "余江区",
       "city": "鹰潭市",
       "province": "江西省"
     },
@@ -11685,12 +11679,6 @@ let districts = {
       "province": "湖北省"
     },
     {
-      "code": "420821",
-      "name": "京山县",
-      "city": "荆门市",
-      "province": "湖北省"
-    },
-    {
       "code": "420822",
       "name": "沙洋县",
       "city": "荆门市",
@@ -11699,6 +11687,12 @@ let districts = {
     {
       "code": "420881",
       "name": "钟祥市",
+      "city": "荆门市",
+      "province": "湖北省"
+    },
+    {
+      "code": "420882",
+      "name": "京山市",
       "city": "荆门市",
       "province": "湖北省"
     }
@@ -12903,6 +12897,12 @@ let districts = {
     {
       "code": "440310",
       "name": "坪山区",
+      "city": "深圳市",
+      "province": "广东省"
+    },
+    {
+      "code": "440311",
+      "name": "光明区",
       "city": "深圳市",
       "province": "广东省"
     }
@@ -16253,8 +16253,8 @@ let districts = {
       "province": "云南省"
     },
     {
-      "code": "530321",
-      "name": "马龙县",
+      "code": "530304",
+      "name": "马龙区",
       "city": "曲靖市",
       "province": "云南省"
     },
@@ -17647,12 +17647,6 @@ let districts = {
       "province": "陕西省"
     },
     {
-      "code": "610427",
-      "name": "彬县",
-      "city": "咸阳市",
-      "province": "陕西省"
-    },
-    {
       "code": "610428",
       "name": "长武县",
       "city": "咸阳市",
@@ -17679,6 +17673,12 @@ let districts = {
     {
       "code": "610481",
       "name": "兴平市",
+      "city": "咸阳市",
+      "province": "陕西省"
+    },
+    {
+      "code": "610482",
+      "name": "彬州市",
       "city": "咸阳市",
       "province": "陕西省"
     }
@@ -18873,6 +18873,12 @@ let districts = {
     {
       "code": "632802",
       "name": "德令哈市",
+      "city": "海西蒙古族藏族自治州",
+      "province": "青海省"
+    },
+    {
+      "code": "632803",
+      "name": "茫崖市",
       "city": "海西蒙古族藏族自治州",
       "province": "青海省"
     },
