@@ -18309,12 +18309,6 @@ let districts = {
       "province": "甘肃省"
     },
     {
-      "code": "620824",
-      "name": "华亭县",
-      "city": "平凉市",
-      "province": "甘肃省"
-    },
-    {
       "code": "620825",
       "name": "庄浪县",
       "city": "平凉市",
@@ -18323,6 +18317,12 @@ let districts = {
     {
       "code": "620826",
       "name": "静宁县",
+      "city": "平凉市",
+      "province": "甘肃省"
+    },
+    {
+      "code": "620881",
+      "name": "华亭市",
       "city": "平凉市",
       "province": "甘肃省"
     }

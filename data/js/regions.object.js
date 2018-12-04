@@ -23232,14 +23232,6 @@ let districts = {
     "province_code": "620000",
     "province": "甘肃省"
   },
-  "620824": {
-    "code": "620824",
-    "name": "华亭县",
-    "city_code": "620800",
-    "city": "平凉市",
-    "province_code": "620000",
-    "province": "甘肃省"
-  },
   "620825": {
     "code": "620825",
     "name": "庄浪县",
@@ -23251,6 +23243,14 @@ let districts = {
   "620826": {
     "code": "620826",
     "name": "静宁县",
+    "city_code": "620800",
+    "city": "平凉市",
+    "province_code": "620000",
+    "province": "甘肃省"
+  },
+  "620881": {
+    "code": "620881",
+    "name": "华亭市",
     "city_code": "620800",
     "city": "平凉市",
     "province_code": "620000",
