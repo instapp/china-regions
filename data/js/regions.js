@@ -1,6 +1,6 @@
 /*!
  * China Regions
- * Copyright (c) 2018 Instapp.
+ * Copyright (c) 2017-2019 Instapp.
  *
  * https://github.com/instapp/china-regions
  * http://instapp.io
@@ -12043,8 +12043,8 @@ let districts = {
       "province": "湖南省"
     },
     {
-      "code": "430221",
-      "name": "株洲县",
+      "code": "430212",
+      "name": "渌口区",
       "city": "株洲市",
       "province": "湖南省"
     },
@@ -13719,8 +13719,8 @@ let districts = {
       "province": "广西壮族自治区"
     },
     {
-      "code": "450331",
-      "name": "荔浦县",
+      "code": "450381",
+      "name": "荔浦市",
       "city": "桂林市",
       "province": "广西壮族自治区"
     },
@@ -16445,8 +16445,8 @@ let districts = {
       "province": "云南省"
     },
     {
-      "code": "530630",
-      "name": "水富县",
+      "code": "530681",
+      "name": "水富市",
       "city": "昭通市",
       "province": "云南省"
     }

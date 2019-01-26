@@ -1,6 +1,6 @@
 /*!
  * China Regions
- * Copyright (c) 2018 Instapp.
+ * Copyright (c) 2017-2019 Instapp.
  *
  * https://github.com/instapp/china-regions
  * http://instapp.io
@@ -15192,9 +15192,9 @@ let districts = {
     "province_code": "430000",
     "province": "湖南省"
   },
-  "430221": {
-    "code": "430221",
-    "name": "株洲县",
+  "430212": {
+    "code": "430212",
+    "name": "渌口区",
     "city_code": "430200",
     "city": "株洲市",
     "province_code": "430000",
@@ -17336,17 +17336,17 @@ let districts = {
     "province_code": "450000",
     "province": "广西壮族自治区"
   },
-  "450331": {
-    "code": "450331",
-    "name": "荔浦县",
+  "450332": {
+    "code": "450332",
+    "name": "恭城瑶族自治县",
     "city_code": "450300",
     "city": "桂林市",
     "province_code": "450000",
     "province": "广西壮族自治区"
   },
-  "450332": {
-    "code": "450332",
-    "name": "恭城瑶族自治县",
+  "450381": {
+    "code": "450381",
+    "name": "荔浦市",
     "city_code": "450300",
     "city": "桂林市",
     "province_code": "450000",
@@ -20840,9 +20840,9 @@ let districts = {
     "province_code": "530000",
     "province": "云南省"
   },
-  "530630": {
-    "code": "530630",
-    "name": "水富县",
+  "530681": {
+    "code": "530681",
+    "name": "水富市",
     "city_code": "530600",
     "city": "昭通市",
     "province_code": "530000",

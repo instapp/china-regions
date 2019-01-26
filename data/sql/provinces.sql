@@ -1,6 +1,6 @@
 #
 # China Regions
-# Copyright (c) 2017-2018 Instapp
+# Copyright (c) 2017-2019 Instapp
 #
 # https://github.com/instapp/china-regions
 # http://instapp.io
