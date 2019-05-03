@@ -8001,12 +8001,6 @@ let districts = {
       "province": "安徽省"
     },
     {
-      "code": "340824",
-      "name": "潜山县",
-      "city": "安庆市",
-      "province": "安徽省"
-    },
-    {
       "code": "340825",
       "name": "太湖县",
       "city": "安庆市",
@@ -8033,6 +8027,12 @@ let districts = {
     {
       "code": "340881",
       "name": "桐城市",
+      "city": "安庆市",
+      "province": "安徽省"
+    },
+    {
+      "code": "340882",
+      "name": "潜山市",
       "city": "安庆市",
       "province": "安徽省"
     }
