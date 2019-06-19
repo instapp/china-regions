@@ -12,9 +12,9 @@
   "author": "Acathur<i@acathur.com>",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "json2csv": "^3.7.3",
-    "node-fetch": "^1.7.3"
+    "cheerio": "^1.0.0-rc.3",
+    "json2csv": "^4.5.1",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
