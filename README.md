@@ -48,5 +48,5 @@ data
 - [Administrative divisions of China][3]
 
 [1]: http://www.mca.gov.cn/article/sj/xzqh/2019/
-[2]: http://www.mca.gov.cn/article/sj/xzqh/2019/201901-06/201905271445.html
+[2]: http://www.mca.gov.cn/article/sj/xzqh/2019/201901-06/201905271021.html
 [3]: https://en.wikipedia.org/wiki/Administrative_divisions_of_China

@@ -1035,12 +1035,6 @@ let cities = {
     "province_code": "370000",
     "province": "山东省"
   },
-  "371200": {
-    "code": "371200",
-    "name": "莱芜市",
-    "province_code": "370000",
-    "province": "山东省"
-  },
   "371300": {
     "code": "371300",
     "name": "临沂市",
@@ -12000,6 +11994,22 @@ let districts = {
     "province_code": "370000",
     "province": "山东省"
   },
+  "370116": {
+    "code": "370116",
+    "name": "莱芜区",
+    "city_code": "370100",
+    "city": "济南市",
+    "province_code": "370000",
+    "province": "山东省"
+  },
+  "370117": {
+    "code": "370117",
+    "name": "钢城区",
+    "city_code": "370100",
+    "city": "济南市",
+    "province_code": "370000",
+    "province": "山东省"
+  },
   "370124": {
     "code": "370124",
     "name": "平阴县",
@@ -12637,22 +12647,6 @@ let districts = {
     "name": "莒县",
     "city_code": "371100",
     "city": "日照市",
-    "province_code": "370000",
-    "province": "山东省"
-  },
-  "371202": {
-    "code": "371202",
-    "name": "莱城区",
-    "city_code": "371200",
-    "city": "莱芜市",
-    "province_code": "370000",
-    "province": "山东省"
-  },
-  "371203": {
-    "code": "371203",
-    "name": "钢城区",
-    "city_code": "371200",
-    "city": "莱芜市",
     "province_code": "370000",
     "province": "山东省"
   },
