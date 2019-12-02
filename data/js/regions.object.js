@@ -7522,121 +7522,25 @@ let districts = {
     "province_code": "230000",
     "province": "黑龙江省"
   },
-  "230702": {
-    "code": "230702",
-    "name": "伊春区",
+  "230717": {
+    "code": "230717",
+    "name": "伊美区",
     "city_code": "230700",
     "city": "伊春市",
     "province_code": "230000",
     "province": "黑龙江省"
   },
-  "230703": {
-    "code": "230703",
-    "name": "南岔区",
+  "230718": {
+    "code": "230718",
+    "name": "乌翠区",
     "city_code": "230700",
     "city": "伊春市",
     "province_code": "230000",
     "province": "黑龙江省"
   },
-  "230704": {
-    "code": "230704",
+  "230719": {
+    "code": "230719",
     "name": "友好区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230705": {
-    "code": "230705",
-    "name": "西林区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230706": {
-    "code": "230706",
-    "name": "翠峦区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230707": {
-    "code": "230707",
-    "name": "新青区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230708": {
-    "code": "230708",
-    "name": "美溪区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230709": {
-    "code": "230709",
-    "name": "金山屯区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230710": {
-    "code": "230710",
-    "name": "五营区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230711": {
-    "code": "230711",
-    "name": "乌马河区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230712": {
-    "code": "230712",
-    "name": "汤旺河区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230713": {
-    "code": "230713",
-    "name": "带岭区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230714": {
-    "code": "230714",
-    "name": "乌伊岭区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230715": {
-    "code": "230715",
-    "name": "红星区",
-    "city_code": "230700",
-    "city": "伊春市",
-    "province_code": "230000",
-    "province": "黑龙江省"
-  },
-  "230716": {
-    "code": "230716",
-    "name": "上甘岭区",
     "city_code": "230700",
     "city": "伊春市",
     "province_code": "230000",
@@ -7645,6 +7549,46 @@ let districts = {
   "230722": {
     "code": "230722",
     "name": "嘉荫县",
+    "city_code": "230700",
+    "city": "伊春市",
+    "province_code": "230000",
+    "province": "黑龙江省"
+  },
+  "230723": {
+    "code": "230723",
+    "name": "汤旺县",
+    "city_code": "230700",
+    "city": "伊春市",
+    "province_code": "230000",
+    "province": "黑龙江省"
+  },
+  "230724": {
+    "code": "230724",
+    "name": "丰林县",
+    "city_code": "230700",
+    "city": "伊春市",
+    "province_code": "230000",
+    "province": "黑龙江省"
+  },
+  "230725": {
+    "code": "230725",
+    "name": "大箐山县",
+    "city_code": "230700",
+    "city": "伊春市",
+    "province_code": "230000",
+    "province": "黑龙江省"
+  },
+  "230726": {
+    "code": "230726",
+    "name": "南岔县",
+    "city_code": "230700",
+    "city": "伊春市",
+    "province_code": "230000",
+    "province": "黑龙江省"
+  },
+  "230751": {
+    "code": "230751",
+    "name": "金林区",
     "city_code": "230700",
     "city": "伊春市",
     "province_code": "230000",
@@ -17594,9 +17538,9 @@ let districts = {
     "province_code": "450000",
     "province": "广西壮族自治区"
   },
-  "451021": {
-    "code": "451021",
-    "name": "田阳县",
+  "451003": {
+    "code": "451003",
+    "name": "田阳区",
     "city_code": "451000",
     "city": "百色市",
     "province_code": "450000",
