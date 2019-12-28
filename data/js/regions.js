@@ -7296,6 +7296,12 @@ let districts = {
       "name": "乐清市",
       "city": "温州市",
       "province": "浙江省"
+    },
+    {
+      "code": "330383",
+      "name": "龙港市",
+      "city": "温州市",
+      "province": "浙江省"
     }
   ],
   "330400": [
@@ -8276,12 +8282,6 @@ let districts = {
       "province": "安徽省"
     },
     {
-      "code": "341822",
-      "name": "广德县",
-      "city": "宣城市",
-      "province": "安徽省"
-    },
-    {
       "code": "341823",
       "name": "泾县",
       "city": "宣城市",
@@ -8302,6 +8302,12 @@ let districts = {
     {
       "code": "341881",
       "name": "宁国市",
+      "city": "宣城市",
+      "province": "安徽省"
+    },
+    {
+      "code": "341882",
+      "name": "广德市",
       "city": "宣城市",
       "province": "安徽省"
     }
@@ -9396,8 +9402,8 @@ let districts = {
       "province": "江西省"
     },
     {
-      "code": "361121",
-      "name": "上饶县",
+      "code": "361104",
+      "name": "广信区",
       "city": "上饶市",
       "province": "江西省"
     },
@@ -11170,6 +11176,12 @@ let districts = {
       "province": "河南省"
     },
     {
+      "code": "411603",
+      "name": "淮阳区",
+      "city": "周口市",
+      "province": "河南省"
+    },
+    {
       "code": "411621",
       "name": "扶沟县",
       "city": "周口市",
@@ -11196,12 +11208,6 @@ let districts = {
     {
       "code": "411625",
       "name": "郸城县",
-      "city": "周口市",
-      "province": "河南省"
-    },
-    {
-      "code": "411626",
-      "name": "淮阳县",
       "city": "周口市",
       "province": "河南省"
     },
@@ -12144,12 +12150,6 @@ let districts = {
       "province": "湖南省"
     },
     {
-      "code": "430521",
-      "name": "邵东县",
-      "city": "邵阳市",
-      "province": "湖南省"
-    },
-    {
       "code": "430522",
       "name": "新邵县",
       "city": "邵阳市",
@@ -12194,6 +12194,12 @@ let districts = {
     {
       "code": "430581",
       "name": "武冈市",
+      "city": "邵阳市",
+      "province": "湖南省"
+    },
+    {
+      "code": "430582",
+      "name": "邵东市",
       "city": "邵阳市",
       "province": "湖南省"
     }
@@ -14806,14 +14812,14 @@ let districts = {
       "province": "四川省"
     },
     {
-      "code": "510922",
-      "name": "射洪县",
+      "code": "510923",
+      "name": "大英县",
       "city": "遂宁市",
       "province": "四川省"
     },
     {
-      "code": "510923",
-      "name": "大英县",
+      "code": "510981",
+      "name": "射洪市",
       "city": "遂宁市",
       "province": "四川省"
     }

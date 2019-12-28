@@ -9114,6 +9114,14 @@ let districts = {
     "province_code": "330000",
     "province": "浙江省"
   },
+  "330383": {
+    "code": "330383",
+    "name": "龙港市",
+    "city_code": "330300",
+    "city": "温州市",
+    "province_code": "330000",
+    "province": "浙江省"
+  },
   "330402": {
     "code": "330402",
     "name": "南湖区",
@@ -10354,14 +10362,6 @@ let districts = {
     "province_code": "340000",
     "province": "安徽省"
   },
-  "341822": {
-    "code": "341822",
-    "name": "广德县",
-    "city_code": "341800",
-    "city": "宣城市",
-    "province_code": "340000",
-    "province": "安徽省"
-  },
   "341823": {
     "code": "341823",
     "name": "泾县",
@@ -10389,6 +10389,14 @@ let districts = {
   "341881": {
     "code": "341881",
     "name": "宁国市",
+    "city_code": "341800",
+    "city": "宣城市",
+    "province_code": "340000",
+    "province": "安徽省"
+  },
+  "341882": {
+    "code": "341882",
+    "name": "广德市",
     "city_code": "341800",
     "city": "宣城市",
     "province_code": "340000",
@@ -11794,9 +11802,9 @@ let districts = {
     "province_code": "360000",
     "province": "江西省"
   },
-  "361121": {
-    "code": "361121",
-    "name": "上饶县",
+  "361104": {
+    "code": "361104",
+    "name": "广信区",
     "city_code": "361100",
     "city": "上饶市",
     "province_code": "360000",
@@ -14074,6 +14082,14 @@ let districts = {
     "province_code": "410000",
     "province": "河南省"
   },
+  "411603": {
+    "code": "411603",
+    "name": "淮阳区",
+    "city_code": "411600",
+    "city": "周口市",
+    "province_code": "410000",
+    "province": "河南省"
+  },
   "411621": {
     "code": "411621",
     "name": "扶沟县",
@@ -14109,14 +14125,6 @@ let districts = {
   "411625": {
     "code": "411625",
     "name": "郸城县",
-    "city_code": "411600",
-    "city": "周口市",
-    "province_code": "410000",
-    "province": "河南省"
-  },
-  "411626": {
-    "code": "411626",
-    "name": "淮阳县",
     "city_code": "411600",
     "city": "周口市",
     "province_code": "410000",
@@ -15322,14 +15330,6 @@ let districts = {
     "province_code": "430000",
     "province": "湖南省"
   },
-  "430521": {
-    "code": "430521",
-    "name": "邵东县",
-    "city_code": "430500",
-    "city": "邵阳市",
-    "province_code": "430000",
-    "province": "湖南省"
-  },
   "430522": {
     "code": "430522",
     "name": "新邵县",
@@ -15389,6 +15389,14 @@ let districts = {
   "430581": {
     "code": "430581",
     "name": "武冈市",
+    "city_code": "430500",
+    "city": "邵阳市",
+    "province_code": "430000",
+    "province": "湖南省"
+  },
+  "430582": {
+    "code": "430582",
+    "name": "邵东市",
     "city_code": "430500",
     "city": "邵阳市",
     "province_code": "430000",
@@ -18730,17 +18738,17 @@ let districts = {
     "province_code": "510000",
     "province": "四川省"
   },
-  "510922": {
-    "code": "510922",
-    "name": "射洪县",
+  "510923": {
+    "code": "510923",
+    "name": "大英县",
     "city_code": "510900",
     "city": "遂宁市",
     "province_code": "510000",
     "province": "四川省"
   },
-  "510923": {
-    "code": "510923",
-    "name": "大英县",
+  "510981": {
+    "code": "510981",
+    "name": "射洪市",
     "city_code": "510900",
     "city": "遂宁市",
     "province_code": "510000",

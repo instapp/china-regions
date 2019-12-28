@@ -1,6 +1,6 @@
 {
   "name": "china-regions",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "",
   "main": "data/regions.js",
   "scripts": {
