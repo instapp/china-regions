@@ -2057,6 +2057,11 @@ let cities = {
       "code": "659009",
       "name": "昆玉市",
       "province": "新疆维吾尔自治区"
+    },
+    {
+      "code": "659010",
+      "name": "胡杨河市",
+      "province": "新疆维吾尔自治区"
     }
   ]
 }
@@ -3578,6 +3583,12 @@ let districts = {
       "province": "山西省"
     },
     {
+      "code": "140703",
+      "name": "太谷区",
+      "city": "晋中市",
+      "province": "山西省"
+    },
+    {
       "code": "140721",
       "name": "榆社县",
       "city": "晋中市",
@@ -3604,12 +3615,6 @@ let districts = {
     {
       "code": "140725",
       "name": "寿阳县",
-      "city": "晋中市",
-      "province": "山西省"
-    },
-    {
-      "code": "140726",
-      "name": "太谷县",
       "city": "晋中市",
       "province": "山西省"
     },
@@ -6276,12 +6281,6 @@ let districts = {
       "province": "黑龙江省"
     },
     {
-      "code": "231121",
-      "name": "嫩江县",
-      "city": "黑河市",
-      "province": "黑龙江省"
-    },
-    {
       "code": "231123",
       "name": "逊克县",
       "city": "黑河市",
@@ -6302,6 +6301,12 @@ let districts = {
     {
       "code": "231182",
       "name": "五大连池市",
+      "city": "黑河市",
+      "province": "黑龙江省"
+    },
+    {
+      "code": "231183",
+      "name": "嫩江市",
       "city": "黑河市",
       "province": "黑龙江省"
     }
@@ -7750,8 +7755,8 @@ let districts = {
       "province": "安徽省"
     },
     {
-      "code": "340225",
-      "name": "无为县",
+      "code": "340281",
+      "name": "无为市",
       "city": "芜湖市",
       "province": "安徽省"
     }
@@ -8860,12 +8865,6 @@ let districts = {
       "province": "江西省"
     },
     {
-      "code": "360105",
-      "name": "湾里区",
-      "city": "南昌市",
-      "province": "江西省"
-    },
-    {
       "code": "360111",
       "name": "青山湖区",
       "city": "南昌市",
@@ -8874,6 +8873,12 @@ let districts = {
     {
       "code": "360112",
       "name": "新建区",
+      "city": "南昌市",
+      "province": "江西省"
+    },
+    {
+      "code": "360113",
+      "name": "红谷滩区",
       "city": "南昌市",
       "province": "江西省"
     },
@@ -10174,6 +10179,12 @@ let districts = {
       "province": "山东省"
     },
     {
+      "code": "371503",
+      "name": "茌平区",
+      "city": "聊城市",
+      "province": "山东省"
+    },
+    {
       "code": "371521",
       "name": "阳谷县",
       "city": "聊城市",
@@ -10182,12 +10193,6 @@ let districts = {
     {
       "code": "371522",
       "name": "莘县",
-      "city": "聊城市",
-      "province": "山东省"
-    },
-    {
-      "code": "371523",
-      "name": "茌平县",
       "city": "聊城市",
       "province": "山东省"
     },
@@ -10744,12 +10749,6 @@ let districts = {
       "province": "河南省"
     },
     {
-      "code": "410728",
-      "name": "长垣县",
-      "city": "新乡市",
-      "province": "河南省"
-    },
-    {
       "code": "410781",
       "name": "卫辉市",
       "city": "新乡市",
@@ -10758,6 +10757,12 @@ let districts = {
     {
       "code": "410782",
       "name": "辉县市",
+      "city": "新乡市",
+      "province": "河南省"
+    },
+    {
+      "code": "410783",
+      "name": "长垣市",
       "city": "新乡市",
       "province": "河南省"
     }
@@ -13900,12 +13905,6 @@ let districts = {
       "province": "广西壮族自治区"
     },
     {
-      "code": "451023",
-      "name": "平果县",
-      "city": "百色市",
-      "province": "广西壮族自治区"
-    },
-    {
       "code": "451024",
       "name": "德保县",
       "city": "百色市",
@@ -13950,6 +13949,12 @@ let districts = {
     {
       "code": "451081",
       "name": "靖西市",
+      "city": "百色市",
+      "province": "广西壮族自治区"
+    },
+    {
+      "code": "451082",
+      "name": "平果市",
       "city": "百色市",
       "province": "广西壮族自治区"
     }
@@ -16260,12 +16265,6 @@ let districts = {
       "province": "云南省"
     },
     {
-      "code": "530422",
-      "name": "澄江县",
-      "city": "玉溪市",
-      "province": "云南省"
-    },
-    {
       "code": "530423",
       "name": "通海县",
       "city": "玉溪市",
@@ -16298,6 +16297,12 @@ let districts = {
     {
       "code": "530428",
       "name": "元江哈尼族彝族傣族自治县",
+      "city": "玉溪市",
+      "province": "云南省"
+    },
+    {
+      "code": "530481",
+      "name": "澄江市",
       "city": "玉溪市",
       "province": "云南省"
     }
@@ -17728,12 +17733,6 @@ let districts = {
       "province": "陕西省"
     },
     {
-      "code": "610623",
-      "name": "子长县",
-      "city": "延安市",
-      "province": "陕西省"
-    },
-    {
       "code": "610625",
       "name": "志丹县",
       "city": "延安市",
@@ -17778,6 +17777,12 @@ let districts = {
     {
       "code": "610632",
       "name": "黄陵县",
+      "city": "延安市",
+      "province": "陕西省"
+    },
+    {
+      "code": "610681",
+      "name": "子长市",
       "city": "延安市",
       "province": "陕西省"
     }
@@ -18598,14 +18603,14 @@ let districts = {
       "province": "青海省"
     },
     {
-      "code": "630121",
-      "name": "大通回族土族自治县",
+      "code": "630106",
+      "name": "湟中区",
       "city": "西宁市",
       "province": "青海省"
     },
     {
-      "code": "630122",
-      "name": "湟中县",
+      "code": "630121",
+      "name": "大通回族土族自治县",
       "city": "西宁市",
       "province": "青海省"
     },
@@ -19244,14 +19249,14 @@ let districts = {
       "province": "新疆维吾尔自治区"
     },
     {
-      "code": "652922",
-      "name": "温宿县",
+      "code": "652902",
+      "name": "库车市",
       "city": "阿克苏地区",
       "province": "新疆维吾尔自治区"
     },
     {
-      "code": "652923",
-      "name": "库车县",
+      "code": "652922",
+      "name": "温宿县",
       "city": "阿克苏地区",
       "province": "新疆维吾尔自治区"
     },

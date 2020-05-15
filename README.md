@@ -4,7 +4,7 @@
 
 本数据来自[中华人民共和国民政部][1], 爬虫自动监测数据更新并生成新的数据文件.
 
-最后更新于 2019-12-24. ([源网页][2])
+最后更新于 2020-02-19. ([源网页][2])
 
 ## Intro
 
@@ -12,7 +12,7 @@ The People's Republic of China regions data, provide `JSON`, `SQL`, `JS (ES6)`, 
 
 The data that is from [Ministry of Civil Affairs of the People's Republic of China][1], the crawler will monitor the update of data and generate data files automatic.
 
-Latest upated at 2019-12-24. ([Source][2])
+Latest upated at 2020-02-19. ([Source][2])
 
 ## Structure
 ```bash
@@ -48,5 +48,5 @@ data
 - [Administrative divisions of China][3]
 
 [1]: http://www.mca.gov.cn/article/sj/xzqh/2019/
-[2]: http://www.mca.gov.cn/article/sj/xzqh/2019/2019/201912251506.html
+[2]: http://www.mca.gov.cn/article/sj/xzqh/2019/2019/202002261356.html
 [3]: https://en.wikipedia.org/wiki/Administrative_divisions_of_China
