@@ -14,7 +14,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "json2csv": "^4.5.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
